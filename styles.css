@@ -1,5 +1,14 @@
 .one{
     margin-left: 30px;
+
+    .first-q{
+        margin-bottom: 10px ;
+        font-size: 20px;
+        font-family:  sans-serif;
+    }
+    .option-one{
+        margin-left: 40px;
+    }
 }
 
 .two{
