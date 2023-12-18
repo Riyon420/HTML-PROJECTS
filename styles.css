@@ -1,46 +1,31 @@
 .one{
     margin-left: 30px;
-    
-    .first-q{
-        font-size: larger;
-        font-weight: bold;
-        font-family: sans-serif  ;
-    }
 }
 
-
-
-.second-q{
-    font-size: larger;
-    font-weight: bold;
+.two{
+    margin-left: 30px;
 }
 
-.third-q{
-    font-size: larger;
- 
-    font-weight: bold;
+.three{
+    margin-left: 30px;
 }
 
-.forth-q{
-    font-size: larger;
-    font-weight: bold;
+.four{
+    margin-left: 30px;
 }
 
-.fivth-q{
-    font-size: larger;
-    font-weight: bold;
-}
-.sixth-q{
-    font-size: larger;
-    font-weight: bold;
+.five{
+    margin-left: 30px;
 }
 
-.seventh-q{
-    font-size: larger;
-    font-weight: bold;
+.six{
+    margin-left: 30px;
 }
 
-.last-q{
-    font-size: larger;
-    font-weight: bold;
+.seven{
+    margin-left: 30px;
+}
+
+.eight{
+    margin-left: 30px;
 }
